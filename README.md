@@ -1,14 +1,14 @@
-# Real State  Shaping data
- 
+# Real State  Shaping data
+ 
 ## Introduction
-This projects porpuse is to integrate different data sources into 1. The original dataset includes basic information about real state properties in Melbourne such as address, coordinates, size and price. From different data sources it is created a more robust dataset the contains:
+This project's purpose is to integrate different data sources into 1. The original dataset includes basic information about real state properties in Melbourne such as address, coordinates, size, and price. From different data sources it is created a more robust dataset the contains:
 
-<br><br>-Suburb coordiantes
+<br><br>-Suburb coordinates
 <br>-Suburb council
 <br>-Average crime rate by type of crime
 <br>-Closest schools
-<br>-Rancking of closest schools
-<br>-Identifying overpriced houses compared to average price
+<br>-Ranking of closest schools
+<br>-Identifying overpriced houses compared to the average price
 <br>-Finding closes train station with direct service to Southern Cross
 <br>-Travel time to CBD
 
